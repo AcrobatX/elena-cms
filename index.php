@@ -16,7 +16,7 @@ include_once( ROOT_CORE."controller.php");
 //instantiate an object of WebPage class is inside controller
 $page = new WebPage();
 
-// added a comment on git web
+
 //die ();
 /*Include part*/
 
